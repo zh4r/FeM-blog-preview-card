@@ -9,6 +9,7 @@ body {
     background-color: hsl(47, 88%, 63%);
 }
 
+
 main {
     box-sizing: border-box;
     background-color: white;
@@ -19,7 +20,7 @@ main {
     height: 500px;
     border-radius: 1.3rem;
     transition: box-shadow 0.18s ease-in;
-    
+
     img {
         display: block;
         object-fit: cover;
@@ -41,13 +42,16 @@ main {
         transition: box-shadow 0.18s ease-in;
     }
 
+
 a {
     text-decoration: none;
 }
 
+
 a:visited {
     color: black;
 }
+
 
 mark {
     background-color: hsl(47, 88%, 63%);
@@ -56,6 +60,7 @@ mark {
     font-size: 0.8rem;
     font-weight: 800;
 }
+
 
 article {
     h2 {
@@ -93,6 +98,7 @@ article {
     }
 }
 
+
 footer {
     margin-top: 1.4rem;
 
@@ -113,6 +119,7 @@ footer {
         margin-left: 0.5rem;
     }
 }
+
 
 .attribution {
     display: absolute;
@@ -146,6 +153,7 @@ footer {
         transform: scaleX(1);
     }
 }
+
 
 @media (min-width: 1440px) {
     main {
