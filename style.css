@@ -25,13 +25,13 @@ main {
         width: 280px;
         height: 200px;
         border-radius: 0.7rem;
-        margin-bottom: 1.5rem;
+        margin-bottom: 1.7rem;
     }
 
     p {
         font-size: 0.8rem;
         font-weight: 600;
-        margin-top: 0.8rem;
+        margin-top: 0.9rem;
     }
 }
 
@@ -73,7 +73,7 @@ article {
 }
 
 footer {
-    margin-top: 1.5rem;
+    margin-top: 1.4rem;
 
     img {
         display: inline;
@@ -124,4 +124,28 @@ footer {
     a:hover::before {
         transform: scaleX(1);
     }
+}
+
+@media (min-width: 1440px) {
+    main {
+        font-size: 120%;
+        line-height: 1.4rem;
+        width: 380px;
+        height: 525px;
+
+        .graphic {
+            width: 100%;
+        }
+
+        p,
+        mark {
+            font-size: 0.9rem;
+            margin-bottom: 1.4rem;
+        }
+
+        article p {
+            font-size: 1rem;
+        }
+    }
+
 }
