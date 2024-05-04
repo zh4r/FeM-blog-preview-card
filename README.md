@@ -57,4 +57,3 @@ I've either gone overboard with semantics, or I've completely messed them up...
 - Website - [zh4r.GitHub.io](https://zh4r.github.io/)
 - GitHub - [@zh4r GitHub](https://github.com/zh4r)
 - Frontend Mentor - [@zh4r](https://www.frontendmentor.io/profile/zh4r)
-
