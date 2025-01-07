@@ -54,6 +54,7 @@ I've either gone overboard with semantics, or I've completely messed them up...
 
 ## Author
 
-- Website - [zh4r.GitHub.io](https://zh4r.github.io/)
-- GitHub - [@zh4r GitHub](https://github.com/zh4r)
-- Frontend Mentor - [@zh4r](https://www.frontendmentor.io/profile/zh4r)
+- [GitHub Pages - @zh4r](https://zh4r.github.io/)
+- [Frontend Mentor -  @zh4r](https://www.frontendmentor.io/profile/zh4r)
+- [Upwork](https://www.upwork.com/freelancers/~012011fab05dc8d091)
+- [Hire me - piv@zh4r.me](mailto:piv@zh4r.me)
